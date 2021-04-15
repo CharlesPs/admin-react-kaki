@@ -1,0 +1,13 @@
+
+.main-sidebar {
+    background-color: #ccc;
+    height: 100%;
+    width: 230px;
+}
+
+@media screen and (max-width: 767px) {
+
+    .main-sidebar {
+        display: none;
+    }
+}

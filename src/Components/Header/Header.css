@@ -1,0 +1,11 @@
+
+header {
+    background-color: white;
+    box-shadow: 1px 2px 3px 0 rgba(0,0,0,.5);
+}
+
+header .logo {
+    border: 1px solid #ccc;
+    height: 50px;
+    width: 200px;
+}
